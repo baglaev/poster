@@ -120,14 +120,3 @@ function selectChange() {
         posterImg.style.padding = `${padding}px`;
     }
 };
-
-
-// const cart = {
-//     item1: selectPadding.value,
-//     item2: inputCheckbox.value,
-//     item3: posterImg.value,
-//     item4: widthInput.value,
-//     item5: heightInput.value
-// };
-
-// console.log(cart)
